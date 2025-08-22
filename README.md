@@ -1,6 +1,3 @@
-# to-do
-A very simple To-Do List app built with JavaScript and Bootstrap. Add, complete, and delete tasks. Deployed on AWS.
-
 # 📝 To-Do List App
 
 A simple **To-Do List application** built using **JavaScript** and **Bootstrap**.  
